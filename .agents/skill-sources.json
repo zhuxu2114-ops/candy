@@ -1,0 +1,289 @@
+{
+  "downloaded_at_utc": "2026-10-29T02:39:02.601863+00:00",
+  "requested_skills": [
+    {
+      "name": "find-skills",
+      "repository": "https://github.com/vercel-labs/skills",
+      "commit": "92a9a34ac3bf88e695e468b90c7bf32f163d32c8",
+      "source_path": "skills/find-skills",
+      "source_url": "https://github.com/vercel-labs/skills/tree/92a9a34ac3bf88e695e468b90c7bf32f163d32c8/skills/find-skills",
+      "files": [
+        {
+          "path": "skills/find-skills/SKILL.md",
+          "sha256": "c00eeea0e13e74fe4a9d84ba0a8542205a1b736d65f13134fe1a6647eb14976f"
+        }
+      ],
+      "installed_path": ".agents/skills/find-skills"
+    },
+    {
+      "name": "grill-me",
+      "repository": "https://github.com/mattpocock/skills",
+      "commit": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+      "source_path": "skills/productivity/grill-me",
+      "source_url": "https://github.com/mattpocock/skills/tree/59db609eb1e18aaf59b63284d0e52255aff0c63c/skills/productivity/grill-me",
+      "files": [
+        {
+          "path": "skills/grill-me/SKILL.md",
+          "sha256": "caaf8b8de1684f96e26b28f3c29189db5c89cce4b73e1c93d86164f66ef88637"
+        },
+        {
+          "path": "skills/grill-me/agents/openai.yaml",
+          "sha256": "c061e39c3e0f9d865fb1b97556d485704af2a8a58f4b8221a8917a5c2074a32b"
+        }
+      ],
+      "installed_path": ".agents/skills/grill-me"
+    },
+    {
+      "name": "grill-with-docs",
+      "repository": "https://github.com/mattpocock/skills",
+      "commit": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+      "source_path": "skills/engineering/grill-with-docs",
+      "source_url": "https://github.com/mattpocock/skills/tree/59db609eb1e18aaf59b63284d0e52255aff0c63c/skills/engineering/grill-with-docs",
+      "files": [
+        {
+          "path": "skills/grill-with-docs/SKILL.md",
+          "sha256": "7de372c13488f1ee96cc11cd8907b56b6809cc93eef776eeddd37de6b6cbe3fe"
+        },
+        {
+          "path": "skills/grill-with-docs/agents/openai.yaml",
+          "sha256": "94cd0ab161fb468a836349f5ed482ba58ce8e709a05c57ce533d739dbd35cca9"
+        }
+      ],
+      "installed_path": ".agents/skills/grill-with-docs"
+    },
+    {
+      "name": "improve-codebase-architecture",
+      "repository": "https://github.com/mattpocock/skills",
+      "commit": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+      "source_path": "skills/engineering/improve-codebase-architecture",
+      "source_url": "https://github.com/mattpocock/skills/tree/59db609eb1e18aaf59b63284d0e52255aff0c63c/skills/engineering/improve-codebase-architecture",
+      "files": [
+        {
+          "path": "skills/improve-codebase-architecture/HTML-REPORT.md",
+          "sha256": "581e8bb5a521e46bbda8ca7e19b15948bed882187108092ebb90c62513b77528"
+        },
+        {
+          "path": "skills/improve-codebase-architecture/SKILL.md",
+          "sha256": "552240a5ab5cec6b67c15dd1ad6e9f6962b1bca6ce870059a8c2713760c20392"
+        },
+        {
+          "path": "skills/improve-codebase-architecture/agents/openai.yaml",
+          "sha256": "c8cb20f68ebf0edb4e497bc11ae5fcaa196004e661cd189015b04f4109ced7f1"
+        }
+      ],
+      "installed_path": ".agents/skills/improve-codebase-architecture"
+    },
+    {
+      "name": "agent-browser",
+      "repository": "https://github.com/vercel-labs/agent-browser",
+      "commit": "50d81fc134bf7539b56b3924abc27d371b1e106d",
+      "source_path": "skills/agent-browser",
+      "source_url": "https://github.com/vercel-labs/agent-browser/tree/50d81fc134bf7539b56b3924abc27d371b1e106d/skills/agent-browser",
+      "files": [
+        {
+          "path": "skills/agent-browser/SKILL.md",
+          "sha256": "3a7520e64de2dfaa516b6721c001e84e06e3c06a187b82af029ae721540ebfac"
+        }
+      ],
+      "installed_path": ".agents/skills/agent-browser"
+    },
+    {
+      "name": "tdd",
+      "repository": "https://github.com/mattpocock/skills",
+      "commit": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+      "source_path": "skills/engineering/tdd",
+      "source_url": "https://github.com/mattpocock/skills/tree/59db609eb1e18aaf59b63284d0e52255aff0c63c/skills/engineering/tdd",
+      "files": [
+        {
+          "path": "skills/tdd/SKILL.md",
+          "sha256": "5505d25bbaa8fc14a79e4d20163936958992a2995b7f1dd1d6197edc9ed722e0"
+        },
+        {
+          "path": "skills/tdd/agents/openai.yaml",
+          "sha256": "ea6f01cf1b8c06a4b0f5b649d74b1b8ce8685e72af1b38d70d877693e092af0b"
+        },
+        {
+          "path": "skills/tdd/mocking.md",
+          "sha256": "3ceb807fdf4a47d6a93d4d9a891e5ba6d362a6247bd08adc451feebfc17361ef"
+        },
+        {
+          "path": "skills/tdd/tests.md",
+          "sha256": "859f9e592c188fda4fc7277dd180e4ce9c7a2e13f6efe1f6f29eccc9d28c106a"
+        }
+      ],
+      "installed_path": ".agents/skills/tdd"
+    },
+    {
+      "name": "setup-matt-pocock-skills",
+      "repository": "https://github.com/mattpocock/skills",
+      "commit": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+      "source_path": "skills/engineering/setup-matt-pocock-skills",
+      "source_url": "https://github.com/mattpocock/skills/tree/59db609eb1e18aaf59b63284d0e52255aff0c63c/skills/engineering/setup-matt-pocock-skills",
+      "files": [
+        {
+          "path": "skills/setup-matt-pocock-skills/SKILL.md",
+          "sha256": "b01e05bfe8c323171275c6ceec78b12f1bd4c62dfd26c2cfe8be806d3883f1ed"
+        },
+        {
+          "path": "skills/setup-matt-pocock-skills/agents/openai.yaml",
+          "sha256": "9527de0110541c45712319025155aeab8dc7d77c6ed6e5e83271bab1851ab939"
+        },
+        {
+          "path": "skills/setup-matt-pocock-skills/domain.md",
+          "sha256": "593a7042218689f1d24df89df14eaf0a20e19e0d0a7d479a01947ac78f0784b9"
+        },
+        {
+          "path": "skills/setup-matt-pocock-skills/issue-tracker-github.md",
+          "sha256": "6fdb3e9b00b7b0b115ecac3b1c00e3790f637f190abf598815368722c0a94692"
+        },
+        {
+          "path": "skills/setup-matt-pocock-skills/issue-tracker-gitlab.md",
+          "sha256": "947602d33a80f98f939fb990995b8f95a3459b114b919c4221d08bd75d7cffe0"
+        },
+        {
+          "path": "skills/setup-matt-pocock-skills/issue-tracker-local.md",
+          "sha256": "7dcda20a2eb4bdc89b95d1143423c0691309921cadae3132e6424f371030506e"
+        },
+        {
+          "path": "skills/setup-matt-pocock-skills/triage-labels.md",
+          "sha256": "ae512af838c78b8750471c42cd2b20fa32319553e61d84c9a23d171b40ce14aa"
+        }
+      ],
+      "installed_path": ".agents/skills/setup-matt-pocock-skills"
+    },
+    {
+      "name": "frontend-design",
+      "repository": "https://github.com/anthropics/skills",
+      "commit": "ca45fc496a3436251f191354091d557da31c15b5",
+      "source_path": "skills/frontend-design",
+      "source_url": "https://github.com/anthropics/skills/tree/ca45fc496a3436251f191354091d557da31c15b5/skills/frontend-design",
+      "files": [
+        {
+          "path": "skills/frontend-design/LICENSE.txt",
+          "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
+        },
+        {
+          "path": "skills/frontend-design/SKILL.md",
+          "sha256": "d91970639e9f5c37682ac7ab60094d35f1c7c1f38d731bd56396563aee10c1d3"
+        }
+      ],
+      "installed_path": ".agents/skills/frontend-design"
+    },
+    {
+      "name": "handoff",
+      "repository": "https://github.com/mattpocock/skills",
+      "commit": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+      "source_path": "skills/productivity/handoff",
+      "source_url": "https://github.com/mattpocock/skills/tree/59db609eb1e18aaf59b63284d0e52255aff0c63c/skills/productivity/handoff",
+      "files": [
+        {
+          "path": "skills/handoff/SKILL.md",
+          "sha256": "4cbb043950dad2ffd3662ff1a5a0b51ae676004b5cae10e3787e8ee7a4ee69d3"
+        },
+        {
+          "path": "skills/handoff/agents/openai.yaml",
+          "sha256": "5c479fd562c691851690e8b18c8501045bef0943c10743d636b2fae26add1d28"
+        }
+      ],
+      "installed_path": ".agents/skills/handoff"
+    },
+    {
+      "name": "triage",
+      "repository": "https://github.com/mattpocock/skills",
+      "commit": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+      "source_path": "skills/engineering/triage",
+      "source_url": "https://github.com/mattpocock/skills/tree/59db609eb1e18aaf59b63284d0e52255aff0c63c/skills/engineering/triage",
+      "files": [
+        {
+          "path": "skills/triage/AGENT-BRIEF.md",
+          "sha256": "7f5f87fed3033df1b06e083c480f3e847b1fbb0647746b8a4c6a50f9f26ef44f"
+        },
+        {
+          "path": "skills/triage/OUT-OF-SCOPE.md",
+          "sha256": "1fbf9b432130c6380aa65813b55553cfda150309b27c595e183f8e335b8a190d"
+        },
+        {
+          "path": "skills/triage/SKILL.md",
+          "sha256": "917b0baf74be583e74f110857ed45df2766617f75c00baf61fd136d7af515edf"
+        },
+        {
+          "path": "skills/triage/agents/openai.yaml",
+          "sha256": "2e683717720cf456d165d0bb1a68bb600d0b6a8ccb61841c172e50d26f95351c"
+        }
+      ],
+      "installed_path": ".agents/skills/triage"
+    }
+  ],
+  "supporting_dependencies": [
+    {
+      "name": "grilling",
+      "repository": "https://github.com/mattpocock/skills",
+      "commit": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+      "source_path": "skills/productivity/grilling",
+      "source_url": "https://github.com/mattpocock/skills/tree/59db609eb1e18aaf59b63284d0e52255aff0c63c/skills/productivity/grilling",
+      "files": [
+        {
+          "path": "dependencies/grilling/SKILL.md",
+          "sha256": "befdff1e27a1dfe2a294d5871169ac1afe16d983911daa4f32627514a48c1e15"
+        },
+        {
+          "path": "dependencies/grilling/agents/openai.yaml",
+          "sha256": "1411d7df7d99b7e621a1ff8283c8133cc2464be63d064e52d8ce169c6800ee9b"
+        }
+      ],
+      "installed_path": ".agents/skills/grilling"
+    },
+    {
+      "name": "domain-modeling",
+      "repository": "https://github.com/mattpocock/skills",
+      "commit": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+      "source_path": "skills/engineering/domain-modeling",
+      "source_url": "https://github.com/mattpocock/skills/tree/59db609eb1e18aaf59b63284d0e52255aff0c63c/skills/engineering/domain-modeling",
+      "files": [
+        {
+          "path": "dependencies/domain-modeling/ADR-FORMAT.md",
+          "sha256": "944c92aa790e8fbdc9199640b170979abb8a34ba8d0fe18c2a01a63bce140ca0"
+        },
+        {
+          "path": "dependencies/domain-modeling/GLOSSARY-FORMAT.md",
+          "sha256": "21dcc40cdec8e151a829b98ab1517c1867bc444e3665134a98c6983411996801"
+        },
+        {
+          "path": "dependencies/domain-modeling/SKILL.md",
+          "sha256": "7b925d7b1e341a2eeae33ad68a8a8c0ab889a38ddd22a7598e4c240e5a7556a3"
+        },
+        {
+          "path": "dependencies/domain-modeling/agents/openai.yaml",
+          "sha256": "f6bf2aa996c6e6f53fdd0708e18a0d16a56aed8322cca59fedbe3c0d2c75f06b"
+        }
+      ],
+      "installed_path": ".agents/skills/domain-modeling"
+    },
+    {
+      "name": "codebase-design",
+      "repository": "https://github.com/mattpocock/skills",
+      "commit": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+      "source_path": "skills/engineering/codebase-design",
+      "source_url": "https://github.com/mattpocock/skills/tree/59db609eb1e18aaf59b63284d0e52255aff0c63c/skills/engineering/codebase-design",
+      "files": [
+        {
+          "path": "dependencies/codebase-design/DEEPENING.md",
+          "sha256": "f3dd099ce99289bd213914d8ee3e2429b78309c3957ca4583f7659551b1d53c1"
+        },
+        {
+          "path": "dependencies/codebase-design/DESIGN-IT-TWICE.md",
+          "sha256": "52b52e75655a27aea59c6966b410bac82448968ad46ef1ebb9f07c274e3ae010"
+        },
+        {
+          "path": "dependencies/codebase-design/SKILL.md",
+          "sha256": "2c20617f87ec8af6a434859f381b2f061a69b530444e74eb39e78bb016a6d1e2"
+        },
+        {
+          "path": "dependencies/codebase-design/agents/openai.yaml",
+          "sha256": "edebc9e4fcfe102114012575eaa9600b9b5fd08c311664f389c36e7bc717740f"
+        }
+      ],
+      "installed_path": ".agents/skills/codebase-design"
+    }
+  ]
+}
